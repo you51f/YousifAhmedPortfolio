@@ -112,6 +112,10 @@ dd {
 blockquote {
   margin: 0 0 1rem; }
 
+  .imaSolv {
+    width: 25px;
+    height: 25px;
+  }
 b,
 strong {
   font-weight: bolder; }
@@ -8156,6 +8160,8 @@ a {
     text-decoration: none;
     color: #ffbd39;
     outline: none !important; }
+
+
 
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
